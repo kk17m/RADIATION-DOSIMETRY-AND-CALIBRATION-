@@ -811,6 +811,12 @@ delT             =  getappdata(hMainGui,'delT');
 BackScatterFactor = str2double(getappdata(hMainGui,'BackScatterFactor'));
 MMEAC_WaterToAir  = getappdata(hMainGui,'MMEAC_WaterToAir');
 
+if isempty(Mselection) || isnan(Mselection)
+   fprintf('Please select the measurement condition first. \n');
+   setappdata(hMainGui,'ErrorText','ERROR: Please select the measurement condition first.');
+   Error;
+end
+
 switch Mselection
     case 1
        setappdata(hMainGui,'ErrorText','ERROR: Please select the measurement condition.');
