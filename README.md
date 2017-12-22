@@ -68,6 +68,6 @@ To run the application open calibration.fig
 
 * **Note.fig :** *Gui to display helping statements and suggestions.*   
 
-*  *ParseChemicalFormula.m, **PhotonAttenuation.m**, PhotonAttenuationQ.m and PhysProps.m are functions that provede the attenuation and energy absorption of x-ray and gamma-ray photons in various materials including mixtures and compounds, based on NIST report 5632, by J. Hubbell and S.M. Seltzer.*   
+*  ***ParseChemicalFormula.m, **PhotonAttenuation.m**, PhotonAttenuationQ.m and PhysProps.m are functions that provede the attenuation and energy absorption of x-ray and gamma-ray photons in various materials including mixtures and compounds, based on NIST report 5632, by J. Hubbell and S.M. Seltzer.*   
 
 
