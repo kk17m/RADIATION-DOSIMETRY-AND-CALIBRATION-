@@ -1,4 +1,4 @@
-# RADIATION-DOSIMETRY-AND-CALIBRATION-
+# RADIATION DOSIMETRY AND CALIBRATION
 About: Calibration GUI application for the absorbed dose to water calculations.
 
 To run the application open calibration.fig
