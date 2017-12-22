@@ -46,6 +46,9 @@ end
 
 % --- Executes just before WaterToAirMeanMassEnergyAbsCoeff is made visible.
 function WaterToAirMeanMassEnergyAbsCoeff_OpeningFcn(hObject, eventdata, handles, varargin)
+Image = imread('Drawing1.jpg');
+axes(handles.axes2);
+imshow(Image);
 
 set(gca,'xtick',[])
 set(gca,'ytick',[])
