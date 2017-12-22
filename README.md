@@ -1,5 +1,5 @@
 # RADIATION DOSIMETRY AND CALIBRATION
-**About :** Calibration GUI application for the absorbed dose to water calculations.
+**About :** GUI application for the absorbed dose to water calculation and calibration.
 
 *To run the application open calibration.fig*
 
