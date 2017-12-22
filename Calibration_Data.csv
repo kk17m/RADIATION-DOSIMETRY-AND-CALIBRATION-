@@ -1,0 +1,34 @@
+Parameter,Values
+Calibration No.,1
+Reference No.,1
+Nominal Tube Current [mA],0.2
+Nominal Tube Voltage [kV],60
+Beam Quality HVL [mm Al],5
+Air-Kerma Calibration Nk [Gy/C],12
+SSD [cm],10
+Field size [cm^2],100
+Total Radiation Time [sec],30
+Mean M+ [C],24.2322823
+Mean M- [C],8
+Mean Temperature [deg.C],7
+Mean Pressure [kPa],2
+Reference Temperature [deg.C],2
+Reference Pressure [kPa],2
+Electrometer Nominal Voltage [+/- V],500
+Kpol,2.01451764375
+Ktp,1.01816860465116
+Electrometer Ktp Correction Enabled?,No
+Ks,455.456367280015
+Kh,1
+Kelec,2
+Kq,1.01112959338987
+Kq Calculation Method,Kilovoltage Beams
+End Effect time [sec],-0.0138888888888883
+Stem Correction Factor,1.5
+Back scatter factor,1.2
+Measurement Type,Uncorrected measurement   M_uc.
+Measurement Value [C],154
+Measurement Offset [C],5
+Correct Reading M [C],278390.120367035
+Absorbed dose to water Dw [Gy],6344206.67744272
+Dose Rate [Gy/sec],211571.505685908
