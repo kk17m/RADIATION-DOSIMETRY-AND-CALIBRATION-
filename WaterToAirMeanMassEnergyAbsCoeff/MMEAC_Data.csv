@@ -1,0 +1,16 @@
+Parameter,Values
+Real Time [sec],45
+Live Time [sec],54
+Input Count Rate,54545
+Output Count Rate ,45454
+Detector window material,Be
+Window material density [g/cm^3],1.8
+Detector window thickness [nm],25000
+Diode material,Si
+Diode material density [g/cm^3],2.33
+Diode thickness [nm],400000
+Nominal tube current [mA],0.2
+SDD (Spectra) [mm],405
+Field radius [mm],0.1
+Solid angle [Sr],1.91531243181786e-06
+Water to Air mean mass energy absorption coefficient,1.04342906854786
