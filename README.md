@@ -68,10 +68,10 @@
 
 * **Note.fig :** *Gui to display helping statements and suggestions.*   
 
-*  *The functions **ParseChemicalFormula.m**, **PhotonAttenuation.m**, **PhotonAttenuationQ.m** and **PhysProps.m** provede the attenuation and energy absorption of x-ray and gamma-ray photons in various materials including mixtures and compounds, based on NIST report 5632, by J. Hubbell and S.M. Seltzer.*   
+*  *The functions **ParseChemicalFormula.m**, **PhotonAttenuation.m**, **PhotonAttenuationQ.m** and **PhysProps.m** provide the attenuation and energy absorption of x-ray and gamma-ray photons in various materials including mixtures and compounds, based on NIST report 5632, by J. Hubbell and S.M. Seltzer.*   
 
 * **TotalEfficiency.m :** *Function to approximate the total efficiency of the photon counting detector by including the solid angle calculations.*   
 
-* **WaterToAirMeanMassEnergyAbsCoeff.m :** *Function to approximate the water to air mean mass energy absorption coefficient form the incident X-Ray spectra.*   
+* **WaterToAirMeanMassEnergyAbsCoeff.m :** *Function to approximate the water to air mean mass energy absorption coefficient form the incident X-Ray spectra.*    
 
 * **WaterToAirMeanMassEnergyAbsCoeff.fig :** *Gui to to approximate the water to air mean mass energy absorption coefficient form the incident X-Ray spectra by loading the measured spectrum and getting the user data to approximate the detector properties.*   
