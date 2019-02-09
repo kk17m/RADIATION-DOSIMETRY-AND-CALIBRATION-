@@ -1,5 +1,5 @@
 # RADIATION DOSIMETRY AND CALIBRATION
-**About :** GUI application for the absorbed dose to water calculation and calibration.
+**About :**  Computation of absorbed dose to water and dose calibration using GUI application.
 
 *To run the application open calibration.fig*
 
@@ -75,3 +75,10 @@
 * **WaterToAirMeanMassEnergyAbsCoeff.m :** *Function to approximate the water to air mean mass energy absorption coefficient form the incident X-Ray spectra.*    
 
 * **WaterToAirMeanMassEnergyAbsCoeff.fig :** *Gui to to approximate the water to air mean mass energy absorption coefficient form the incident X-Ray spectra by loading the measured spectrum and getting the user data to approximate the detector properties.*   
+
+## References
+
+* Andreo, Pedro, et al. "Absorbed dose determination in external beam radiotherapy: an international code of practice for dosimetry based on standards of absorbed dose to water." IAEA TRS 398 (2000).
+
+* Ma, C. M., and J. P. Seuntjens. "Mass-energy absorption coefficient and backscatter factor ratios for kilovoltage x-ray beams." Physics in Medicine & Biology 44.1 (1999): 131.
+
