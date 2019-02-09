@@ -80,5 +80,10 @@
 
 * Andreo, Pedro, et al. "Absorbed dose determination in external beam radiotherapy: an international code of practice for dosimetry based on standards of absorbed dose to water." IAEA TRS 398 (2000).
 
+* Chica, U., et al. "Quality indexes based on water measurements for low and medium energy x‐ray beams: A theoretical study with PENELOPE." Medical physics 41.1 (2014).
+
 * Ma, C. M., and J. P. Seuntjens. "Mass-energy absorption coefficient and backscatter factor ratios for kilovoltage x-ray beams." Physics in Medicine & Biology 44.1 (1999): 131.
 
+* Hill, Robin, et al. "An evaluation of ionization chambers for the relative dosimetry of kilovoltage x‐ray beams." Medical physics 36.9Part1 (2009): 3971-3981.
+
+* Bruggmoser, G., et al. "Determination of the recombination correction factor kS for some specific plane-parallel and cylindrical ionization chambers in pulsed photon and electron beams." Physics in Medicine & Biology 52.2 (2006): N35.
